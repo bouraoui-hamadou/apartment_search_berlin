@@ -1,0 +1,15 @@
+[Salutation],
+
+ich hoffe, dass meine E-Mail Sie in bester Gesundheit erreicht. Mein Name ist {user_name} und ich schreibe Ihnen, um mein Interesse an Ihrem aktuellen Wohnungsinserat auszudrücken.
+
+Ich habe Ihr Angebot für die Wohnung in [Stadtteil/Adresse] sorgfältig geprüft und es entspricht genau meinen Anforderungen. Die Wohnung klingt äußerst vielversprechend, und ich bin überzeugt, dass sie meinen Bedürfnissen und Vorlieben entspricht.
+
+Ich möchte Sie darüber informieren, dass alle meine erforderlichen Dokumente und Unterlagen bereits vollständig vorbereitet sind. Ich bin bereit, sie Ihnen zur Verfügung zu stellen, um den Mietprozess zu erleichtern.
+
+Falls möglich, würde ich gerne einen Besichtigungstermin vereinbaren, um die Wohnung persönlich zu besichtigen und weitere Details zu besprechen. Bitte teilen Sie mir mit, welche Unterlagen Sie benötigen und wie ich sie Ihnen zusenden kann.
+
+Ich danke Ihnen vielmals für Ihre Zeit und freue mich auf eine positive Rückmeldung von Ihnen. Bei weiteren Fragen stehe ich Ihnen gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+{user_name}
