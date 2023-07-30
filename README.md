@@ -20,7 +20,7 @@ The default user in this demo is "Max Mustermann." However, the script can be ea
 The script utilizes pickling to store and retrieve the dictionary with apartment details. Pickling is a straightforward way to serialize Python objects, enabling data to be saved and later restored, thus maintaining the history of contacted apartments across multiple script runs.
 
 ## Requirements
-To run the apartment search script, make sure you have Python 3.9 installed on your system. Additionally, install the required libraries by running the following command in your terminal or command prompt:
+To run the apartment search script, make sure you have Python 3.9 and google chrome installed on your system. Additionally, install the required libraries by running the following command in your terminal or command prompt:
 
 <div align="center">
 
