@@ -26,9 +26,9 @@ To run the apartment search script, make sure you have Python 3.9 and google chr
 
 ## `pip install -r requirements.txt`
 
-</div>
-
 (If you are using Ubuntu please open the "requirements.txt" file and delete the following line "pywin32==306" as it results in an error.)
+
+</div>
 
 ## Usage
 1. Clone or download this repository to your local machine.
