@@ -28,6 +28,8 @@ To run the apartment search script, make sure you have Python 3.9 and google chr
 
 </div>
 
+(If you are using Ubuntu please open the "requirements.txt" file and delete the following line "pywin32==306" as it results in an error.)
+
 ## Usage
 1. Clone or download this repository to your local machine.
 2. Install the required dependencies as described in the "Requirements" section.
